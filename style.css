@@ -135,9 +135,9 @@ section {
     margin: 10px auto 0;
 }
 
-/* Seção Hero com Imagem de Fundo */
+/* Seção Hero com Imagem de Fundo de Engenheiro Eletricista */
 .hero {
-    background: linear-gradient(rgba(26, 35, 126, 0.7), rgba(26, 35, 126, 0.7)), url('https://images.unsplash.com/photo-1518188033314-1d3156391641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(26, 35, 126, 0.6), rgba(26, 35, 126, 0.6)), url('https://image.lexica.art/md2/8a9249b2-3c4f-48ff-b915-542c5994547f') no-repeat center center/cover;
     height: 70vh;
     display: flex;
     align-items: center;
