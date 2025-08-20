@@ -77,7 +77,7 @@ ul {
 
 .nav-menu ul {
     display: flex;
-    gap: 1.5rem; /* Ajuste para acomodar o novo item */
+    gap: 1.5rem;
 }
 
 .nav-menu a {
@@ -135,9 +135,9 @@ section {
     margin: 10px auto 0;
 }
 
-/* Seção Hero */
+/* Seção Hero com Imagem de Fundo */
 .hero {
-    background: linear-gradient(rgba(26, 35, 126, 0.7), rgba(26, 35, 126, 0.7)), url('https://images.unsplash.com/photo-1596495632145-6a3f11d13f5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(26, 35, 126, 0.7), rgba(26, 35, 126, 0.7)), url('https://images.unsplash.com/photo-1518188033314-1d3156391641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
     height: 70vh;
     display: flex;
     align-items: center;
@@ -373,7 +373,7 @@ section {
         flex-wrap: wrap;
         justify-content: space-between;
     }
-    
+
     .nav-menu {
         display: none;
         flex-direction: column;
@@ -416,15 +416,15 @@ section {
     .hero-content h1 {
         font-size: 2.5rem;
     }
-    
+
     .about-flex {
         flex-direction: column;
     }
-    
+
     .contact-content {
         grid-template-columns: 1fr;
     }
-    
+
     .footer-content {
         text-align: center;
     }
