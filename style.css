@@ -137,7 +137,7 @@ section {
 
 /* Seção Hero com Imagem de Fundo de Engenheiro Eletricista */
 .hero {
-    background: linear-gradient(rgba(26, 35, 126, 0.6), rgba(26, 35, 126, 0.6)), url('https://image.lexica.art/md2/8a9249b2-3c4f-48ff-b915-542c5994547f') no-repeat center center/cover;
+    background: linear-gradient(rgba(26, 35, 126, 0.6), rgba(26, 35, 126, 0.6)), url('https://images.unsplash.com/photo-1628126861461-f09d84501a30?q=80&w=1470&auto=format&fit=crop') no-repeat center center/cover;
     height: 70vh;
     display: flex;
     align-items: center;
