@@ -77,7 +77,7 @@ ul {
 
 .nav-menu ul {
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem; /* Ajuste para acomodar o novo item */
 }
 
 .nav-menu a {
@@ -116,7 +116,14 @@ section {
     font-size: 2.5rem;
     font-weight: 700;
     color: var(--primary-color);
+    margin-bottom: 2rem;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.2rem;
     margin-bottom: 3rem;
+    color: var(--text-dark);
 }
 
 .section-title::after {
@@ -204,7 +211,7 @@ section {
 }
 
 /* Seções de Cards */
-.services, .why-choose-us {
+.services, .why-choose-us, #automacao {
     background: var(--secondary-color);
 }
 
